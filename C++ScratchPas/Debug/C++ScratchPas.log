@@ -1,2 +1,3 @@
 ﻿  TripleX.cpp
+c:\users\yiminghuang\source\repos\c++scratchpas\c---scratch-pad\c++scratchpas\triplex.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   C++ScratchPas.vcxproj -> C:\Users\YimingHuang\source\repos\C++ScratchPas\C---Scratch-Pad\Debug\C++ScratchPas.exe
