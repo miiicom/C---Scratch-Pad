@@ -48,7 +48,7 @@ bool playgame(int diffuculty) {
 
 
 
-int main() {	
+int _main() {	
 	srand(time(NULL));
 	int currentLevel = 1;
 	const int maxLevel = 10; // tell compiler never allow this value to be chnanged
